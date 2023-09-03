@@ -1,3 +1,3 @@
 
-A cwa calculator using javascript and html
+A cummulative weighted average calculator using javascript and html
 link: https://appcwa.netlify.app
